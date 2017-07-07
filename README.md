@@ -1,6 +1,6 @@
 # bitrates
 
-> A Vue.js project
+> Current rates of popular virtual currencies.
 
 ## Build Setup
 
